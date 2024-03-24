@@ -10,7 +10,7 @@
 
     <bean id = "mobj" class = "com.app.bhasker.MyDb">
      <property name = "name">
-        <value>bhasker</value>
+        <value>bhaskernayak</value>
     </property>
     <property name = "address">
         <value>hyderabad</value>
